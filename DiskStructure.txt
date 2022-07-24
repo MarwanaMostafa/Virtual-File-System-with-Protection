@@ -1,0 +1,27 @@
+Linked
+10
+3
+7
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+4
+root/file 0 2
+root/file1 3 5
+root/folder1/folder2/file.txt 6 -1
+root/folder1/file 7 9
+0 false 1
+1 false 2
+2 false -1
+3 false 4
+4 false 5
+5 false -1
+6 false -1
+7 false 8
+8 false 9
+9 false -1
+root 2 1
+root/file 2
+root/file1 2
+root/folder1 1 1
+root/folder1/file 1
+root/folder1/folder2 1 0
+root/folder1/folder2/file.txt 1

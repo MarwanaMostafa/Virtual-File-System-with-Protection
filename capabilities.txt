@@ -1,0 +1,7 @@
+admin,1
+root,11
+shady,1
+root/,11
+marwan,2
+root/folder1/folder2,11
+root/folder1,11

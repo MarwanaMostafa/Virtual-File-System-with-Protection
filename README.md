@@ -1,5 +1,6 @@
 # Virtual-File-System-with-Protection
 
-## See also : 
- 
-[asdasd](https://github.com/MarwanaMostafa/Disk-Scheduling)
+## See also :
+ * ### [DeadLock](https://github.com/MarwanaMostafa/DeadLock)
+
+ * ### [Disk-Scheduling](https://github.com/MarwanaMostafa/Disk-Scheduling)
